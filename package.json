@@ -1,0 +1,24 @@
+{
+  "name": "untitled-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egs": "^0.3.1",
+    "ejs": "^3.1.6",
+    "expres": "0.0.5",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "hps": "^1.1.1",
+    "mone": "0.0.3",
+    "mongoose": "^5.11.15",
+    "node": "^15.8.0",
+    "nodemon": "^2.0.7",
+    "validator": "^13.5.2"
+  }
+}
